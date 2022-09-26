@@ -1,0 +1,20 @@
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Mi Primer Discor Bot.exe
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Mi Primer Discor Bot.deps.json
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Mi Primer Discor Bot.runtimeconfig.json
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Mi Primer Discor Bot.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Mi Primer Discor Bot.pdb
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\DSharpPlus.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Emzi0767.Common.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.AssemblyInfo.cs
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.csproj.CopyComplete
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\refint\Mi Primer Discor Bot.dll
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.pdb
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\Mi Primer Discor Bot.genruntimeconfig.cache
+C:\Users\cesar\Documents\Mi Primer Discor Bot\Mi Primer Discor Bot\obj\Debug\net6.0\ref\Mi Primer Discor Bot.dll
